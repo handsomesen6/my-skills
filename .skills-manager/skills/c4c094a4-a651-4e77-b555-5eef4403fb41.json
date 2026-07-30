@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4c094a4-a651-4e77-b555-5eef4403fb41",
+  "path": "to-prd",
+  "path_key": "to-prd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/to-prd",
+    "subpath": "skills",
+    "branch": null
+  }
+}

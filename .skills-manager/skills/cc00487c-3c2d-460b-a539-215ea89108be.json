@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc00487c-3c2d-460b-a539-215ea89108be",
+  "path": "sleek-design-mobile-apps",
+  "path_key": "sleek-design-mobile-apps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "sleekdotdesign/agent-skills/sleek-design-mobile-apps",
+    "subpath": "skills\\design-mobile-apps",
+    "branch": null
+  }
+}

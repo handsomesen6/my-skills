@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96de6876-de2a-4b82-b379-ef9ca831b102",
+  "path": "ai-image-generation",
+  "path_key": "ai-image-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "halt-catch-fire/skills/ai-image-generation",
+    "subpath": "tools\\image\\ai-image-generation",
+    "branch": null
+  }
+}

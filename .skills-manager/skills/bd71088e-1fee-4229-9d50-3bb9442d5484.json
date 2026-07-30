@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd71088e-1fee-4229-9d50-3bb9442d5484",
+  "path": "remotion-render",
+  "path_key": "remotion-render",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "halt-catch-fire/skills/remotion-render",
+    "subpath": "tools\\video\\remotion-render",
+    "branch": null
+  }
+}
