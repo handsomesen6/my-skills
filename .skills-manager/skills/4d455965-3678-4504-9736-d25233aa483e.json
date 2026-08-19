@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d455965-3678-4504-9736-d25233aa483e",
+  "path": "navigation-3",
+  "path_key": "navigation-3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "android/skills/navigation-3",
+    "subpath": "navigation\\navigation-3",
+    "branch": null
+  }
+}

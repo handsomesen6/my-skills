@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c823da24-4142-435e-8c45-63109063e626",
+  "path": "edge-to-edge",
+  "path_key": "edge-to-edge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "android/skills/edge-to-edge",
+    "subpath": "system\\edge-to-edge",
+    "branch": null
+  }
+}
