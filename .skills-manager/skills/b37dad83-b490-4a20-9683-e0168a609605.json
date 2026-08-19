@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b37dad83-b490-4a20-9683-e0168a609605",
+  "path": "android-cli",
+  "path_key": "android-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "android/skills/android-cli",
+    "subpath": "devtools\\android-cli",
+    "branch": null
+  }
+}
