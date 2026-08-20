@@ -3,5 +3,16 @@
   "scenario_id": "456c9033-afd2-4190-8541-d1f27fc2284a",
   "skill_id": "9f5447e4-6a79-41d6-8b81-de6439f7ec2c",
   "sort_order": 4,
-  "tools": {}
+  "tools": {
+    "antigravity": true,
+    "claude_code": true,
+    "codex": true,
+    "cursor": true,
+    "deepseek_harness": true,
+    "gemini_cli": true,
+    "openclaw": true,
+    "opencode": true,
+    "trae": true,
+    "trae_cn": true
+  }
 }
