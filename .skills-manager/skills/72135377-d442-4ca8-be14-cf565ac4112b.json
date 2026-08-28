@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "72135377-d442-4ca8-be14-cf565ac4112b",
+  "path": "testing-setup",
+  "path_key": "testing-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "android/skills/testing-setup",
+    "subpath": "testing\\testing-setup",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c935a74-3af4-489e-84f9-44a64beea82d",
+  "path": "career-ops",
+  "path_key": "career-ops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "santifer/career-ops/career-ops",
+    "subpath": ".agents\\skills\\career-ops",
+    "branch": null
+  }
+}

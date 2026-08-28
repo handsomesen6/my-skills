@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f504abeb-802e-4104-bb52-cf2aee293a3c",
+  "path": "adaptive",
+  "path_key": "adaptive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "android/skills/adaptive",
+    "subpath": "jetpack-compose\\adaptive",
+    "branch": null
+  }
+}
