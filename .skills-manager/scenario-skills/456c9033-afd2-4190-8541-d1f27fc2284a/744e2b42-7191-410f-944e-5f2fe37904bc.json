@@ -5,10 +5,16 @@
   "sort_order": 1,
   "tools": {
     "antigravity": true,
+    "claude_code": true,
     "codex": true,
     "continue": true,
+    "cursor": true,
     "deepseek_harness": true,
     "gemini_cli": true,
-    "github_copilot": true
+    "github_copilot": true,
+    "openclaw": true,
+    "opencode": true,
+    "trae": true,
+    "trae_cn": true
   }
 }
