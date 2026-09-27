@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0ab0aba5-c302-4bfb-aeb9-eed12b9ecb6a",
+  "path": "wizard",
+  "path_key": "wizard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/wizard",
+    "subpath": "skills\\engineering\\wizard",
+    "branch": null
+  }
+}
