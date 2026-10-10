@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94cc47c3-393d-496a-886f-d93568e152fe",
+  "path": "pr",
+  "path_key": "pr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/pr",
+    "subpath": "skills\\engineering\\pr",
+    "branch": null
+  }
+}
