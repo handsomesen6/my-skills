@@ -6,13 +6,18 @@
   "tools": {
     "antigravity": true,
     "claude_code": true,
+    "codebuddy": true,
     "codex": true,
+    "continue": true,
     "cursor": true,
     "deepseek_harness": true,
     "gemini_cli": true,
+    "github_copilot": true,
     "openclaw": true,
     "opencode": true,
     "trae": true,
-    "trae_cn": true
+    "trae_cn": true,
+    "workbuddy": true,
+    "zcode": true
   }
 }
